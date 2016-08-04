@@ -14,6 +14,9 @@ import org.drools.core.process.core.datatype.impl.type.StringDataType;
     "defaultHandler": "mvel: com.rewardsystem.MyRewardsHandler()",
     "icon" : "reward.png",
     "category" : "Rewards",
+    "dependencies": [
+
+    ],
     "mavenDependencies" : [ 
 	"com.rewardssystem:myrewardssystem:2.0:optional",
         "com.rewardssystem:systemhelper:1.2"
