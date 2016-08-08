@@ -18,7 +18,7 @@ import org.drools.core.process.core.datatype.impl.type.StringDataType;
 
     ],
     "mavenDependencies" : [ 
-	"com.rewardssystem:myrewardssystem:2.0:optional",
+	"com.rewardssystem:myrewardssystem:2.0",
         "com.rewardssystem:systemhelper:1.2"
     ]
   ]
